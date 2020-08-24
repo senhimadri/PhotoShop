@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_00165658_Himadri_Sen_Apu_DDOOCP_DEC_2017.Form1">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8xAAAAIBACBAABACAQCAwAICAEA5AgAAAHQIAQBABgI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form2" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_00165658_Himadri_Sen_Apu_DDOOCP_DEC_2017.Database">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEBAACAABAAgCAAAAAAAAQACAAAAIAAAAAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form1" />
+      <Property Name="Form2" />
+      <Property Name="Form3" />
+      <Property Name="Database1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_00165658_Himadri_Sen_Apu_DDOOCP_DEC_2017.Form2">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+DIIAIJFASBwGDGRBoCAJMBCpM07ggCk0XB/QQB4Rgg=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form3" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_00165658_Himadri_Sen_Apu_DDOOCP_DEC_2017.Form3">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQQACAAABAAAACAAAACAAAIAAAAAEAAAQAAAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_00165658_Himadri_Sen_Apu_DDOOCP_DEC_2017.Program">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_00165658_Himadri_Sen_Apu_DDOOCP_DEC_2017.User">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABCAgAAAggAEAAAAEAAEAAAAAAwAAAEA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form1" />
+      <Property Name="Form3" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
